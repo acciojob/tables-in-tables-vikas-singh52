@@ -4,3 +4,6 @@
 	background-color:black;
 	color:white
 }
+table,th,td,tr{
+	border: 1px solid black;
+}
