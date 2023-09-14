@@ -1,9 +1,6 @@
 
 /* Your CSS Code here. */
-#idx{
-	background-color:rgb(0,0,0);
-	color:white
-}
+
 table,th,td,tr{
 	border: 1px solid black;
 }
