@@ -2,9 +2,10 @@
 /* Your CSS Code here. */
 
 table,th,td,tr{
-	border: 1px solid black;
+	border: 2px solid black;
 	text-align:center
 }
 table{
 	width:100%;
+
 }
